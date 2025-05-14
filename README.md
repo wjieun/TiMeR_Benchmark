@@ -36,8 +36,8 @@ model_name = ""  # Replace with your model name
 ```
 
 - `batch_size`: Number of inputs processed at once.
-- `basemodel_name`: Name of the baseline model used for comparison.
-- `model_name`: Your model name from Hugging Face or local environment. Replace the empty string with the desired model.
+- `basemodel_name`: Name of the baseline model used for comparison. You can change this.
+- `model_name`: Your model name from Hugging Face or local environment. Replace the empty string with your model name if you're not using the base model.
 
 
 ## 🚀 Run
